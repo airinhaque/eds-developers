@@ -1,1 +1,1 @@
-# eds-developers
+# Software Development Workshop
